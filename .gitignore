@@ -1,0 +1,6 @@
+webdrivers/
+output.xml
+report.html
+log.html
+settings.json
+*.png
